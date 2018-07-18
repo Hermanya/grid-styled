@@ -1,7 +1,7 @@
 import system from 'native-system-components'
 
 export const Box = system({}, {
-  boxSizing: 'border-box'
+  // boxSizing: 'border-box' // react native does not support this
 },
   'width',
   'space',
