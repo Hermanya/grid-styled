@@ -1,5 +1,5 @@
 {
-  "name": "grid-styled",
+  "name": "native-grid-styled",
   "version": "5.0.2",
   "description": "Responsive React grid system built with styled-system, with support for styled-components and emotion",
   "main": "dist/index.js",
@@ -46,7 +46,7 @@
     "styled-components": "^3.3.3"
   },
   "dependencies": {
-    "system-components": "^3.0.0"
+    "native-system-components": "^3.0.0"
   },
   "peerDependencies": {
     "styled-components": ">=2.0 || >=3.0",

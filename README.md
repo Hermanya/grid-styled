@@ -1,7 +1,7 @@
 
 <img src='docs/logo.png' width='128' height='128' />
 
-# Grid Styled
+# This fork of Grid Styled depends on native-system-components
 
 Responsive React grid system built with
 [styled-system][], with support for
@@ -320,9 +320,9 @@ const Column = props => (
 )
 ```
 
-## Changing the HTML element
+## Changing the underlying element
 
-Grid Styled components use the [`is` prop][is-prop] from [system-components][] to change the underlying HTML element.
+Grid Styled components use the [`is` prop][is-prop] from [native-system-components][] to change the underlying element.
 
 ```jsx
 <Box is='header' />

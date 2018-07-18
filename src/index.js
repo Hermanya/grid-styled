@@ -1,4 +1,4 @@
-import system from 'system-components'
+import system from 'native-system-components'
 
 export const Box = system({}, {
   boxSizing: 'border-box'
